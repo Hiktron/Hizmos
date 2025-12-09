@@ -1,3 +1,34 @@
+<img width="160" height="160" alt="232096427-removebg-preview" src="https://github.com/user-attachments/assets/5dab2d59-6904-4110-a1c2-1896bf10f551" />
+
+📖 Explore the HIZMOS Wiki
+
+Dive into the complete HIZMOS story — from the first prototype to the fully‑loaded powerhouse it is today.
+The Wiki includes detailed hardware breakdowns, firmware tutorials, RF labs, NFC guides, BLE tools, and everything you need to master your device.
+
+From multi‑band RF analysis to advanced replay techniques, the Wiki walks you through every feature step‑by‑step.
+Click here to explore the full Wiki!
+
+🌟 About the Project
+
+HIZMOS is an ultra‑powerful, open‑source, next‑generation multi‑tool designed for creators, pentesters, and STEM learners.
+Built on the ESP32‑S3, HIZMOS brings together:
+
+📡 Full 2.4GHz + 5GHz capabilities
+
+🔊 Dual CC1101 modules for flexible Sub‑GHz capture + transmission
+
+🚀 2× GT24 Mini modules for long‑range digital wireless experiments
+
+🔐 NFC (PN532), RFID 125kHz, and IR TX/RX
+
+💡 1.54" high‑res OLED, RGB LED, and a smooth icon‑based UI
+
+🔌 USB‑C OTG, HID tools, SD card support, and deep‑sleep modes
+
+🧰 A full toolkit for wireless testing, protocol analysis, signal visualization, data logging, and custom app development
+
+Designed to be more capable, more open, and more affordable than anything in its class —
+HIZMOS is your all‑in‑one platform for wireless experimentation, education, and innovation.
 
 ![WhatsApp Image 2025-08-02 at 23 33 46_52c6faf6](https://github.com/user-attachments/assets/f6f69546-7636-4b5a-8ea0-cbe0d977c6f9)
 
