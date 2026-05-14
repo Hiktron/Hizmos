@@ -13,15 +13,22 @@ Click here to explore the full Wiki!
 HIZMOS is an ultra‑powerful, open‑source, next‑generation multi‑tool designed for creators, pentesters, and STEM learners.
 Built on the ESP32‑S3, HIZMOS brings together:
 
-📡 Full 2.4GHz + 5GHz capabilities
+📡 Wi-Fi 6 Dual-Band
+(thanks for the esp32 s3 + esp32 c5 archeticture)
 
-🔊 Dual CC1101 modules for flexible Sub‑GHz capture + transmission
+Sub-Ghz Dual (CC1101) 
 
-🚀 2× GT24 Mini modules for long‑range digital wireless experiments
+2.4ghz Dual E01-2G4M27SX (nrf24)
 
-🔐 NFC (PN532), RFID 125kHz, and IR TX/RX
+BLE 5.3
 
-💡 1.54" high‑res OLED, RGB LED, and a smooth icon‑based UI
+NFC (St25r3916) 
+
+RFID 125kHz
+
+IR TX/RX
+
+💡 1.54" high‑res OLED
 
 🔌 USB‑C OTG, HID tools, SD card support, and deep‑sleep modes
 
