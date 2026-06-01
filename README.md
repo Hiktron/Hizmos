@@ -38,6 +38,16 @@ We are expanding support for the latest Espressif chips:
 This structure improves scalability, maintainability, and code reuse.
 
 ---
+## Hardware bom
+
+| Module      | Use |
+|------------|--------|
+| ESP32-S3   | Main MCU |
+| I2C OLED 12864 | THE MAIN DISPLAY |
+| 2X NRF24L01 | 2.4GHZ TRANSCEIVER |
+| IR LED & RECEIVER |IR REMOTE |
+| I2C OLED 12864 | THE MAIN DISPLAY |
+| I2C OLED 12864 | THE MAIN DISPLAY |
 
 
 ![ce98e05e-ab88-439e-80e3-fdce7ed647ef](https://github.com/user-attachments/assets/2637c95d-003a-45a1-95ac-b6e2210f10bc)
