@@ -1,6 +1,7 @@
 <img width="160" height="160" alt="232096427-removebg-preview" src="https://github.com/user-attachments/assets/5dab2d59-6904-4110-a1c2-1896bf10f551" />
 
 HIZMOS Firmware (Beta 1.3)
+
 ![Beta](https://img.shields.io/badge/Status-Beta%201.3-orange)
 ![ESP32-S3](https://img.shields.io/badge/Target-ESP32--S3-green)
 ![Version](https://img.shields.io/badge/Version-1.3-blue)
