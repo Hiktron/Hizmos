@@ -4,7 +4,10 @@ HIZMOS Firmware (Beta 1.3)
 
 ![Beta](https://img.shields.io/badge/Status-Beta%201.3-orange)
 ![ESP32-S3](https://img.shields.io/badge/Target-ESP32--S3-green)
-![Version](https://img.shields.io/badge/Version-1.3-blue)
+![Github Stars](https://img.shields.io/badge/Version-1.3-blue)
+
+
+
 ![ce98e05e-ab88-439e-80e3-fdce7ed647ef](https://github.com/user-attachments/assets/2637c95d-003a-45a1-95ac-b6e2210f10bc)
 <img width="803" height="710" alt="image" src="https://github.com/user-attachments/assets/9490e63d-0ef2-4b6a-aa0e-8bc1ead2c588" />
 
