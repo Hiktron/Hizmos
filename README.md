@@ -25,25 +25,19 @@ We are expanding support for the latest Espressif chips:
 | Target      | Status |
 |------------|--------|
 | ESP32-S3   | Main Development |
-| ESP32-P4   | Experimental (`firmware_p4`) |
 | ESP32-C5   | Experimental (`firmware_c5`) |
 
 ---
 
 ## Firmware Structure
 
-Unlike basic examples with a single `main.c`, this project uses a modular component-based architecture:
-
-- **Drivers** → Handles hardware drivers and low-level interfaces  
-- **Services** → Provides system services and helper logic  
-- **Core** → Contains system kernel logic and main managers  
-- **Applications** → User-facing modules and tools  
+- **Drivers** → (CC1101.H /ST25R3916.H files edited libs) 
+- **Core** → Contains system logic , main managers and the all the features
+- **Applications** → in The development process 
 
 This structure improves scalability, maintainability, and code reuse.
 
 ---
-
-## Project Architecture
 
 
 ![ce98e05e-ab88-439e-80e3-fdce7ed647ef](https://github.com/user-attachments/assets/2637c95d-003a-45a1-95ac-b6e2210f10bc)
