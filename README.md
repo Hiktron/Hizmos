@@ -12,11 +12,11 @@ HIZMOS Firmware (Beta 1.3)
 
 ![License](https://img.shields.io/badge/License-GPLv3-blue)
 
-![Contributors](https://img.shields.io/badge/Contributors-5-brightgreen)
+![GitHub Stars](https://img.shields.io/github/stars/Hiktron/Hizmos)
 
-![Stars](https://img.shields.io/badge/GitHub_Stars-100-yellow)
+![GitHub Forks](https://img.shields.io/github/forks/Hiktron/Hizmos)
 
-![Forks](https://img.shields.io/badge/Forks-25-lightgrey)
+![Contributors](https://img.shields.io/github/contributors/Hiktron/Hizmos)
 
 ![Platform](https://img.shields.io/badge/Platform-HIZMOS-red)
 
