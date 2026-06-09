@@ -123,8 +123,6 @@ This structure improves scalability, maintainability, and code reuse.
 
 Contact us on: https://www.instagram.com/hiktron/
 
-whatsapp: +201557322422
-
 help us to build more projects: https://www.patreon.com/c/HIKTRON
 
 get all new on : https://www.youtube.com/@HIKTRON
