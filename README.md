@@ -51,6 +51,10 @@ This structure improves scalability, maintainability, and code reuse.
 
 
 
+![ce98e05e-ab88-439e-80e3-fdce7ed647ef](https://github.com/user-attachments/assets/2637c95d-003a-45a1-95ac-b6e2210f10bc)
+<img width="803" height="710" alt="image" src="https://github.com/user-attachments/assets/9490e63d-0ef2-4b6a-aa0e-8bc1ead2c588" />
+
+
 ## Complete Connection Diagram
 
 ```text
@@ -139,11 +143,7 @@ Use the following files and flash addresses:
 
 - Target chip: **ESP32-S3(N16R8)**
 
-
-
-![ce98e05e-ab88-439e-80e3-fdce7ed647ef](https://github.com/user-attachments/assets/2637c95d-003a-45a1-95ac-b6e2210f10bc)
-<img width="803" height="710" alt="image" src="https://github.com/user-attachments/assets/9490e63d-0ef2-4b6a-aa0e-8bc1ead2c588" />
-
+```text
 
 📡 Infrared (IR)
 
