@@ -62,6 +62,7 @@ feature that uses the both nrf24 modules in hizmos to jam on the bluetooth full 
 ### Packets Counter
 
 it counts the recived packets over the whole 2.4ghz spectrum and shows them
+
 <img width="380" height="500" alt="image" src="https://github.com/user-attachments/assets/16ab884c-8101-4eaa-a8fa-ee5a0a4cd4a2" />
 
 
@@ -83,6 +84,14 @@ i have done 3 web pages (Instgram/ whatsapp / hotel login / mall of egypt free w
 
 <img width="335" height="301" alt="image" src="https://github.com/user-attachments/assets/9772af2f-bca0-4df5-b2c2-74c78a32d14f" /> <img width="500" height="270" alt="image" src="https://github.com/user-attachments/assets/bc66ddf9-8d9b-49b5-bfa5-1f807cab9078" />
 
+
+## Ble
+
+### Ble advertiser
+it adverts fake ble devices around using some pre made packets
+mainly for now the samsung watch
+
+<img width="650" height="256" alt="image" src="https://github.com/user-attachments/assets/f57ac207-6f21-4604-887d-f51031864c38" />
 
 
 
