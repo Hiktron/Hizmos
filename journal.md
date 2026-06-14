@@ -10,17 +10,17 @@
 # HIZMOS Journey
 
 
-The original goal was simple: create a hardware hacking and STEM device inspired by devices like Flipper Zero,
+the original goal was simple is to create a hardware hacking and rf device inspired by devices Flipper Zero
 but at a much lower price and with more powerful hardware and having every single feature i have dreamed for
 
-## Why I Started HIZMOS
+## why I started HIZMOS
 
-I wanted to create a device that students, makers, and hardware enthusiasts could actually get.
-many existing devices are expensive or difficult to obtain in my region,
+I wanted to create a device that students, makers, and hardware guys could afford
+many existing devices are expensive or difficult to get in my region,
 so I started designing a platform that could combine wireless experimentation
 , hardware development, electronics tools, and educational features into a single device.
 hizmos started as a very simple project but now
-it is a very unique and cool device combining the powerful software, hardware affordabilty and opensource 
+it is a very unique and cool device mixing the powerful software, hardware affordabilty and opensource 
 
 
 # What did i add during the last 23 hours in the horizon project
@@ -180,15 +180,15 @@ but the gerber file is here on github
 ### 1. Sourcing Components in Egypt
 
 One of the biggest challenges was finding the required components and modules. 
-Some parts were difficult to obtain locally,
-getting the ultimate components and tools to make the best tool ever was a real problem
+Some parts were difficult to obtain locally
+getting the best components and tools to make the best tool ever was a real problem
 while importing parts increased costs and delivery times and also the customs clearance was a huge problem
 
 
 
 ### 2. SPI busses config
 
-Combining an ESP32-S3,2x CC1101 (sub-ghz), 2x nrf24 2.4ghz , Sd card, and expansion interfaces 
+Combining an ESP32-S3,2x CC1101 (sub-ghz), 2x nrf24 2.4ghz , Sd card, and expansion baords 
 all of those works on spi bus required many design revisions and consumed alot of effort 
 to get the pcb design right from the first time
 
@@ -210,14 +210,14 @@ all of those needs a custom drivers to do the function for hizmos and now we are
 
 ### 1. The Maker and Open-Source Community
 
-Every time i see somebody trying hizmos or making a video about it it was wonderful for me 
+every time i see somebody trying hizmos or making a video about it it was wonderful for me 
 everytime somebody forks hizmos or comment i think a idid something great and appreciatable 
 
 ### 2. Industry Support and Sponsorship
 
-NextPCB sponsored the manufacturing of 10 double-layer PCB prototypes,
-allowing me to test, iterate, and improve the hardware design much faster than would have been possible otherwise.
-Having access to professionally manufactured PCBs was a significant step toward turning HIZMOS from a concept 
+NextPCB sponsored the manufacturing of 10 double layer pcbs
+allowing me to test and improve the hardware design much faster than would have been possible 
+Having access to professionally manufactured PCBs was a significant step toward turning hizmos from a concept 
 into real hardware.
 
 ELECHOUSE sponsored both the PN5180 and ST25R3916 NFC modules.
@@ -253,7 +253,7 @@ Access to these modules enabled me to explore advanced NFC functionality and int
 
 
 
-Today, HIZMOS has evolved from an idea into a working platform. Multiple hardware and software components have been designed, tested, and improved over time.
+Today hizmos has changed from an idea into a working platform. alot of hardware and software components have been designed, tested, and improved over time.
 
 ## Current Features
 📡 Infrared (IR)
