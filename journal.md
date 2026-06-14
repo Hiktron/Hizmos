@@ -22,7 +22,7 @@ it is a very unique and cool device combining the powerful software, hardware af
 
 ## What did i add during the last 23 hours in the horizon project
 
-Apps:
+#Apps:
 Recreating the full apps menu to be horizontal instead of vertical and all the icons are saved in icons.h file to make the code much cleaner
 
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/85853544-f1fe-4a5f-95fc-d31302c0c68f" />
@@ -45,6 +45,12 @@ flashlight app : using the neopixel led at hizmos to be used as a flashlight and
 academy app: the user can text his skills to get xp it has 3 difficulties (easy /meduim / Hard) to test 3 main skills or tracks (Rf / embedded systems / hardware pentesting) and the questions are also implemented through db.cpp/db.h files
 
 <img width="750" height="490" alt="image" src="https://github.com/user-attachments/assets/d47cbd32-475c-4f21-83f3-ddf78660b27f" />
+
+
+#2.4ghz:
+
+Blue jammer feature that uses the both nrf24 modules in hizmos to jam on the bluetooth full spectrum and to jam on the channel hopping in the bluetooth devices 
+<img width="510" height="480" alt="image" src="https://github.com/user-attachments/assets/7f263d8a-4b83-4c56-824b-328ee6c5ac28" />
 
 
 
