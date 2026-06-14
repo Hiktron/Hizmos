@@ -40,6 +40,14 @@ Safe mode : the use can switch to it to use hizmos sfely 100% it doeasnt have an
 
 flashlight app : using the neopixel led at hizmos to be used as a flashlight and the colors could be configuered 
 
+<img width="440" height="400" alt="image" src="https://github.com/user-attachments/assets/d912f0e7-f5b7-4d28-a891-d5989f14f9d2" />
+
+academy app: the user can text his skills to get xp it has 3 difficulties (easy /meduim / Hard) to test 3 main skills or tracks (Rf / embedded systems / hardware pentesting) and the questions are also implemented through db.cpp/db.h files
+
+<img width="750" height="490" alt="image" src="https://github.com/user-attachments/assets/d47cbd32-475c-4f21-83f3-ddf78660b27f" />
+
+
+
 
 
 
