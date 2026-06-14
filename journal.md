@@ -50,6 +50,7 @@ academy app: the user can text his skills to get xp it has 3 difficulties (easy 
 #2.4ghz:
 
 Blue jammer feature that uses the both nrf24 modules in hizmos to jam on the bluetooth full spectrum and to jam on the channel hopping in the bluetooth devices 
+
 <img width="510" height="480" alt="image" src="https://github.com/user-attachments/assets/7f263d8a-4b83-4c56-824b-328ee6c5ac28" />
 
 
