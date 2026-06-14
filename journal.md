@@ -6,7 +6,7 @@
 
 # HIZMOS Journey
 
-It's been a long time since I started working on HIZMOS. 
+
 The original goal was simple: create a hardware hacking and STEM device inspired by devices like Flipper Zero,
 but at a much lower price and with more powerful hardware and having every single feature i have dreamed for
 
@@ -20,7 +20,17 @@ hizmos started as a very simple project but now
 it is a very unique and cool device combining the powerful software, hardware affordabilty and opensource 
 
 
-## Four Major Challenges
+## What did i add during the last 23 hours in the horizon project
+
+Apps:
+Recreating the full apps menu to be horizontal instead of vertical
+
+Freq Finder app : the user enters the the frequency and hizmos tells what is it used for 
+    example: 433mhz -> used in car remotes (ism band)
+<img width="744" height="550" alt="image" src="https://github.com/user-attachments/assets/b75d9d5a-9dd2-4cf8-af27-4110006330e4" />
+
+
+## Four Major Challenges (through the whole hizmos journey)
 
 ### 1. Sourcing Components in Egypt
 
