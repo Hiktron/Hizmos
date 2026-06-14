@@ -1,5 +1,8 @@
 /*
 
+# Note : 
+### if u are here for trying hizmos this file is not for u this file is for horizon hackclub reviewers and u will not get any benifit from reading it just neglige it
+
 
 
 
