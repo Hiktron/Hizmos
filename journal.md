@@ -87,17 +87,54 @@ i have done 3 web pages (Instgram/ whatsapp / hotel login / mall of egypt free w
 
 ## Ble
 
-### Ble advertiser
+### Ble advertiser (expirmental)
 it adverts fake ble devices around using some pre made packets
 mainly for now the samsung watch
 
 <img width="650" height="256" alt="image" src="https://github.com/user-attachments/assets/f57ac207-6f21-4604-887d-f51031864c38" />
 
 
+## Main
+
+- Fixing the button debouncing in some menus
+
+- add the legal notice before entering the main
+
+
+## What will be added at the rest of the time
+
+Pn5180 Nfc Support (read/write/emulation)
+Notfications system : get notifed when something happens like wifi connection or sd card inserting
+rewards system : get rewarded when something happens like netwronk sniffing or get a high xp in the academy or in a game
+subghz system : JAMMING , reading and remmiting the signals , saving to the sd card packet analysis
+ir : jamming on the ir signal using noise , universal remote to control every single ir device using hizmos
+5ghz : some 5ghz wifi scanning and expirmental attacks
 
 
 
 
+# Bom
+
+### Note the prices in this bom is the prices i have payed for those stuff for a single hizmos piece
+
+esp32 s3 n16r8 1u (700 egp -> 14$ apx)
+2x cc1101 (300 egp /piece -> 6$ apx ) allover is 12$
+2x gt24 mini nrf24 (300 egp /piece -> 6$ apx ) allover is 12$
+oled 1.3 i2c (350 egp -> 7$ apx)
+pn532 nfc module (250 egp -> 5$ apx)
+passive components including : (650 egp -> 13$ apx)
+ sma connectors
+ 1206/ 0805 smd resistors and caps
+ usb to ttl ch340
+ tp4056 charging module
+ some other stuff 
+
+soldering (500 egp / 10$)
+
+THe pcbs was a sponsorship so all i have payed was the customs (200 egp -> 4$ apx)
+
+
+the overall apx . is 75$ -> 3750 egp
 
 
 
