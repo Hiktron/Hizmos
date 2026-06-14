@@ -30,6 +30,11 @@ Freq Finder app : the user enters the the frequency and hizmos tells what is it 
 <img width="496" height="367" alt="image" src="https://github.com/user-attachments/assets/b75d9d5a-9dd2-4cf8-af27-4110006330e4" />
 
 
+Safe mode : the use can switch to it to use hizmos sfely 100% it doeasnt have any rf transimission or any type of jamming
+<img width="785" height="390" alt="image" src="https://github.com/user-attachments/assets/097415f4-92aa-4bfd-b87d-0474bd54d87a" />
+
+
+
 ## Four Major Challenges (through the whole hizmos journey)
 
 ### 1. Sourcing Components in Egypt
