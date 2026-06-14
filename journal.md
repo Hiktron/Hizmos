@@ -59,6 +59,13 @@ feature that uses the both nrf24 modules in hizmos to jam on the bluetooth full 
 <img width="510" height="480" alt="image" src="https://github.com/user-attachments/assets/7f263d8a-4b83-4c56-824b-328ee6c5ac28" />
 
 
+### Packets Counter
+
+it counts the recived packets over the whole 2.4ghz spectrum and shows them
+<img width="380" height="500" alt="image" src="https://github.com/user-attachments/assets/16ab884c-8101-4eaa-a8fa-ee5a0a4cd4a2" />
+
+
+
 ## Wifi
 
 ### Wifi Deauthintecation Attack (expirmental)
