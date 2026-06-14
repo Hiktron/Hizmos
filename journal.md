@@ -30,8 +30,8 @@ Recreating the full apps menu to be horizontal instead of vertical and all the i
 
 
 ### Freq Finder app :
-    the user enters the the frequency and hizmos tells what is it used for 
-    example: 433mhz -> used in car remotes (ism band)
+the user enters the the frequency and hizmos tells what is it used for 
+example: 433mhz -> used in car remotes (ism band)
 <img width="496" height="367" alt="image" src="https://github.com/user-attachments/assets/b75d9d5a-9dd2-4cf8-af27-4110006330e4" />
 
 
@@ -39,20 +39,46 @@ Safe mode : the use can switch to it to use hizmos sfely 100% it doeasnt have an
 <img width="785" height="390" alt="image" src="https://github.com/user-attachments/assets/097415f4-92aa-4bfd-b87d-0474bd54d87a" />
 
 
-flashlight app : using the neopixel led at hizmos to be used as a flashlight and the colors could be configuered 
+### flashlight app : 
+using the neopixel led at hizmos to be used as a flashlight and the colors could be configuered 
 
 <img width="440" height="400" alt="image" src="https://github.com/user-attachments/assets/d912f0e7-f5b7-4d28-a891-d5989f14f9d2" />
 
-academy app: the user can text his skills to get xp it has 3 difficulties (easy /meduim / Hard) to test 3 main skills or tracks (Rf / embedded systems / hardware pentesting) and the questions are also implemented through db.cpp/db.h files
+### academy app: 
+the user can text his skills to get xp it has 3 difficulties (easy /meduim / Hard) to test 3 main skills or tracks (Rf / embedded systems / hardware pentesting) and the questions are also implemented through db.cpp/db.h files
 
 <img width="750" height="490" alt="image" src="https://github.com/user-attachments/assets/d47cbd32-475c-4f21-83f3-ddf78660b27f" />
 
 
-#2.4ghz:
+## 2.4ghz:
 
-Blue jammer feature that uses the both nrf24 modules in hizmos to jam on the bluetooth full spectrum and to jam on the channel hopping in the bluetooth devices 
+### Blue jammer (expirmental)
+feature that uses the both nrf24 modules in hizmos to jam on the bluetooth full spectrum and to jam on the channel hopping in the bluetooth devices 
 
 <img width="510" height="480" alt="image" src="https://github.com/user-attachments/assets/7f263d8a-4b83-4c56-824b-328ee6c5ac28" />
+
+
+## Wifi
+
+### Wifi Deauthintecation Attack (expirmental)
+
+wifi deauthintecation attack is used to send the deauth packets to the connected devices on the router to disconnect them
+
+<img width="369" height="450" alt="image" src="https://github.com/user-attachments/assets/28a501ec-1066-4bad-a9da-58b9f665cead" />
+
+
+
+### captive portal :
+
+it replicates a wifi ap so the users connect to it and on connecting it redicts them to a fake login page to collect the data
+i have done 3 web pages (Instgram/ whatsapp / hotel login / mall of egypt free wifi)
+
+<img width="335" height="301" alt="image" src="https://github.com/user-attachments/assets/9772af2f-bca0-4df5-b2c2-74c78a32d14f" /> <img width="500" height="270" alt="image" src="https://github.com/user-attachments/assets/bc66ddf9-8d9b-49b5-bfa5-1f807cab9078" />
+
+
+
+
+
 
 
 
