@@ -20,16 +20,17 @@ hizmos started as a very simple project but now
 it is a very unique and cool device combining the powerful software, hardware affordabilty and opensource 
 
 
-## What did i add during the last 23 hours in the horizon project
+# What did i add during the last 23 hours in the horizon project
 
-# Apps:
+### Apps:
 Recreating the full apps menu to be horizontal instead of vertical and all the icons are saved in icons.h file to make the code much cleaner
 
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/85853544-f1fe-4a5f-95fc-d31302c0c68f" />
 
 
 
-Freq Finder app : the user enters the the frequency and hizmos tells what is it used for 
+### Freq Finder app :
+    the user enters the the frequency and hizmos tells what is it used for 
     example: 433mhz -> used in car remotes (ism band)
 <img width="496" height="367" alt="image" src="https://github.com/user-attachments/assets/b75d9d5a-9dd2-4cf8-af27-4110006330e4" />
 
