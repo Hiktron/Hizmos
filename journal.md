@@ -27,7 +27,7 @@ Recreating the full apps menu to be horizontal instead of vertical
 
 Freq Finder app : the user enters the the frequency and hizmos tells what is it used for 
     example: 433mhz -> used in car remotes (ism band)
-<img width="744" height="550" alt="image" src="https://github.com/user-attachments/assets/b75d9d5a-9dd2-4cf8-af27-4110006330e4" />
+<img width="496" height="367" alt="image" src="https://github.com/user-attachments/assets/b75d9d5a-9dd2-4cf8-af27-4110006330e4" />
 
 
 ## Four Major Challenges (through the whole hizmos journey)
