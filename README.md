@@ -1,6 +1,23 @@
 <img width="160" height="160" alt="232096427-removebg-preview" src="https://github.com/user-attachments/assets/5dab2d59-6904-4110-a1c2-1896bf10f551" />
 
-HIZMOS Firmware (Beta 1.3)
+
+# HIZMOS Journey
+
+
+the original goal was simple is to create a hardware hacking and rf device inspired by devices Flipper Zero
+but at a much lower price and with more powerful hardware and having every single feature i have dreamed for
+
+## why I started hizmos
+
+I wanted to create a device that students, makers, and hardware guys could afford
+many existing devices are expensive or difficult to get in my region,
+so I started designing a platform that could combine wireless experimentation
+, hardware development, electronics tools, and educational features into a single device.
+hizmos started as a very simple project but now
+it is a very unique and cool device mixing the powerful software, hardware affordabilty and opensource 
+
+
+hizmos firmware (Beta 1.3)
 
 ![Beta](https://img.shields.io/badge/Status-Beta%201.3-orange)
 ![Status](https://img.shields.io/badge/Status-Beta-orange)
@@ -11,16 +28,16 @@ HIZMOS Firmware (Beta 1.3)
 ![Contributors](https://img.shields.io/github/contributors/Hiktron/Hizmos)
 ![Platform](https://img.shields.io/badge/Platform-HIZMOS-red)
 
-## Overview
+## overview
 
-This repository contains firmware in development for the HIZMOS platform.  
-⚠️ Warning: this firmware is in its beta phase and is still incomplete.
+This repository contains firmware in development for the hizmos 
+Warning: this firmware is in its beta phase and is still in the development process
 
 ---
 
-## Officially Supported Targets
+## Supported dev board
 
-We are expanding support for the latest Espressif chips:
+We are using the latest Espressif chips:
 
 | Target      | Status |
 |------------|--------|
@@ -31,21 +48,20 @@ We are expanding support for the latest Espressif chips:
 
 ## Firmware Structure
 
-- **Drivers** → (CC1101.H /ST25R3916.H files edited libs) 
-- **Core** → Contains system logic , main managers and the all the features
-- **Applications** → in The development process 
+- **drivers** → (CC1101.H /ST25R3916.H files edited libs) 
+- **core** → Contains system logic , main managers and the all the features
+- **apps** → in The development process 
 
-This structure improves scalability, maintainability, and code reuse.
 
 ---
 ## Hardware bom
 
 | Module      | Use |
 |------------|--------|
-| ESP32-S3   | Main MCU |
-| I2C OLED 12864 | THE MAIN DISPLAY |
+| ESP32 S3   | Main MCU |
+| i2c OLED 12864 | THE MAIN DISPLAY |
 | 2X NRF24L01 | 2.4GHZ TRANSCEIVER |
-| IR LED & RECEIVER |IR REMOTE |
+| ir led & RECEIVER |IR REMOTE |
 | CC1101 | SUBGHZ TRANSCEIVER  |
 | SPI SD CARD module | sd card  |
 
