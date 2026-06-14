@@ -23,7 +23,11 @@ it is a very unique and cool device combining the powerful software, hardware af
 ## What did i add during the last 23 hours in the horizon project
 
 Apps:
-Recreating the full apps menu to be horizontal instead of vertical
+Recreating the full apps menu to be horizontal instead of vertical and all the icons are saved in icons.h file to make the code much cleaner
+
+<img width="166" height="110" alt="image" src="https://github.com/user-attachments/assets/85853544-f1fe-4a5f-95fc-d31302c0c68f" />
+
+
 
 Freq Finder app : the user enters the the frequency and hizmos tells what is it used for 
     example: 433mhz -> used in car remotes (ism band)
@@ -32,6 +36,11 @@ Freq Finder app : the user enters the the frequency and hizmos tells what is it 
 
 Safe mode : the use can switch to it to use hizmos sfely 100% it doeasnt have any rf transimission or any type of jamming
 <img width="785" height="390" alt="image" src="https://github.com/user-attachments/assets/097415f4-92aa-4bfd-b87d-0474bd54d87a" />
+
+
+flashlight app : using the neopixel led at hizmos to be used as a flashlight and the colors could be configuered 
+
+
 
 
 
