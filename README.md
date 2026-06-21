@@ -128,7 +128,7 @@ ESP32-S3
     ├── LEFT   → GPIO1
     └── RIGHT  → GPIO2
 
-
+```
 
 # Flashing ESP32-S3 Firmware with ESP Web Tool
 
@@ -142,15 +142,15 @@ Use the following files and flash addresses:
 
 ## Steps
 
-1. Open https://esptool.spacehuhn.com/
-2. Click **Connect** and select your ESP32-S3 serial port.
+1. open https://esptool.spacehuhn.com/ or any other web flasher tool
+2. Click **Connect** and select your ESP32-S3 serial port
 3. Click **Add File** and add:
    - `HIZMOS_OLED_U8G2lib.ino.bootloader.bin` at address `0x0000`
    - `HIZMOS_OLED_U8G2lib.ino.partitions.bin` at address `0x8000`
    - `HIZMOS_OLED_U8G2lib.ino.bin` at address `0x10000`
-4. Enable **Erase Before Flashing** (recommended).
-5. Click **Program**.
-6. Wait for flashing to complete and reboot the device.
+4. Enable **Erase Before Flashing**
+5. click **Program**
+6. after flashing reboot the board
 
 ## Notes
 
@@ -159,77 +159,20 @@ Use the following files and flash addresses:
 
 - Target chip: **ESP32-S3(N16R8)**
 
-```text
+SubGhz: Spectrum graph, jammer, brute force, read, read raw, frequency analyzer
 
-📡 Infrared (IR)
+Infrared: Read remotes, save signals
 
-❌ Universal Remotes (Work in progress)
+BadUSB: Demo payload, keyboard emulation, HID script execution
 
-✅ Read Remotes
+NRF Tools: Signal analyzer, 2.4GHz jammer (specific channel), packet counter
 
-✅ Save Remotes
+File Manager: Browse, rename, delete files on SD card
 
-💻 BadUSB
+Mini Apps: Calculator, Timer, Snake game, SD flasher, Flashlight, Academy, freq finder, safe mode
 
-✅ Demo Payload
-
-✅ Keyboard Emulation
-
-✅ HID Script Execution
-
-📶 NRF Tools
-
-✅ Signal Analyzer
-
-❌ Hijack Nerf Devices (Work in progress)
-
-✅ 2.4GHz Jammer
-
-✅ Jammer (Specific Channel)
-
-🗂️ File Manager
-
-✅ Browse Files
-
-✅ Rename Files
-
-✅ Delete Files
-
-🎮 Mini Apps
-
-✅ Basic Flipper-like Apps
-
-⚙️ Settings
-
-✅ Show Usage
-
-✅ Format SD Card
-
-✅ Restart Device
-
-❌ Battery Info (Work in progress)
-
-✅ SD Card Info
-
-✅ About
-
-✅ Check Connected Devices
-
-🧩 Not Yet Implemented
-
-🔲 NFC
-
-🔲 Sub-GHz
-
-🔲 GPIO Tools
-
-🔲 Wi-Fi Tools
-
-🔲 BLE Tools
-
+Settings: Show Usage, Format SD Card, Restart Device, SD Card Info, About, Check Connected Devices
 
 Contact us on: https://www.instagram.com/hiktron/
-
-help us to build more projects: https://www.patreon.com/c/HIKTRON
 
 get all new on : https://www.youtube.com/@HIKTRON
