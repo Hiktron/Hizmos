@@ -3,7 +3,7 @@
 # Note : 
 ### if u are here for trying hizmos this file is not for u this file is for horizon hackclub reviewers and u will not get any benifit from reading it just neglige it
 
-
+# what is new in the Second Submission is down
 
 
 
@@ -351,6 +351,19 @@ embedded programming, problem solving, and product development.
 
 
 
+## What is new (second submission)
+
+
+Made a File to analyze the competitors
+
+
+[First _ Needs Listing-3-2.pdf](https://github.com/user-attachments/files/30280946/First._.Needs.Listing-3-2.pdf)
+
+Including what do I need to develop Hizmos including tools and what is left in the development to get the first Mvp
+
+the file explains itself
+
+and made a marketing strategy 
 
 
 
