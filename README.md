@@ -42,15 +42,6 @@ We are using the latest Espressif chips:
 | Target      | Status |
 |------------|--------|
 | ESP32-S3   | Main Development |
-| ESP32-C5   | Experimental (`firmware_c5`) |
-
----
-
-## Firmware Structure
-
-- **drivers** → (CC1101.H /ST25R3916.H files edited libs) 
-- **core** → Contains system logic , main managers and the all the features
-- **apps** → in The development process 
 
 
 ---
@@ -153,8 +144,6 @@ Use the following files and flash addresses:
 6. after flashing reboot the board
 
 ## Notes
-
-- Target chip: **ESP32-S3(N16R8)**
 
 
 - Target chip: **ESP32-S3(N16R8)**
