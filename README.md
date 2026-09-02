@@ -1,4 +1,3 @@
-<img width="160" height="160" alt="232096427-removebg-preview" src="https://github.com/user-attachments/assets/5dab2d59-6904-4110-a1c2-1896bf10f551" />
 
 
 # HIZMOS Journey
