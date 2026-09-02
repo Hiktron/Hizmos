@@ -7,6 +7,8 @@ the original goal was simple is to create a hardware hacking and rf device inspi
 but at a much lower price and with more powerful hardware and having every single feature i have dreamed for
 
 ## why I started hizmos
+<img width="960" height="1280" alt="5796673998434274109" src="https://github.com/user-attachments/assets/7b46af23-643f-481d-a46f-0e7aa97fa6ac" />
+
 
 I wanted to create a device that students, makers, and hardware guys could afford
 many existing devices are expensive or difficult to get in my region,
